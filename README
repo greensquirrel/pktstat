@@ -18,3 +18,9 @@ messages like this:
 	main.c:18: pcap.h: No such file or directory
 
 $Id$
+
+autoreconf
+autolocal
+aclocal
+automake
+
